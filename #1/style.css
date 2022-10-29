@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+    font-family: 'Montserrat';
+    background-image: url(/assets/bg\ image.jpg);
+}
+
+img{
+    border-radius: 50%;
+    width: 200px;
+}
